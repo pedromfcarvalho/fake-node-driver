@@ -23,3 +23,6 @@ go.work.sum
 
 # env file
 .env
+
+# make build
+docker-machine-driver-fake
